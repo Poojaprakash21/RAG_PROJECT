@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Virtual environment
+rag_env/
+.env/
+
+# Outputs / generated data
+outputs/
+vectorstore/index/
+
+# PDFs (source documents)
+research_papers/
+
+# OS
+.DS_Store
+Thumbs.db
