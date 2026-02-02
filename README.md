@@ -1,4 +1,4 @@
-# 📄 RAG PDF Question Answering System
+#  RAG PDF Question Answering System
 
 **RAG Project** is a Retrieval-Augmented Generation (RAG) based system that enables users to ask questions from PDF documents and receive accurate, AI-generated answers. It combines document ingestion, vector embeddings, semantic search, and large language models to provide context-aware responses.
 
@@ -6,7 +6,7 @@ This repository contains the complete backend pipeline for document loading, ind
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **PDF Document Ingestion**: Automatically loads and processes PDF files.
 * **Text Chunking**: Splits large documents into manageable chunks.
@@ -19,7 +19,7 @@ This repository contains the complete backend pipeline for document loading, ind
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Programming Language**: Python 3.10+
 * **Embeddings**: HuggingFace Transformers
@@ -31,7 +31,7 @@ This repository contains the complete backend pipeline for document loading, ind
 
 ---
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Make sure you have the following installed:
 
@@ -42,7 +42,7 @@ Make sure you have the following installed:
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### 1️⃣ Clone the Repository
 
@@ -149,7 +149,7 @@ RAG_PROJECT/
 
 ---
 
-## 🔄 Workflow Overview
+##  Workflow Overview
 
 1. Load PDF documents
 2. Split text into chunks
@@ -161,7 +161,7 @@ RAG_PROJECT/
 
 ---
 
-## 📌 Example Usage
+##  Example Usage
 
 Once the system is running, you can ask questions like:
 
@@ -176,4 +176,4 @@ The system will retrieve relevant content and generate an AI-based response.
 ---
 
 
-Just tell me 👍
+
